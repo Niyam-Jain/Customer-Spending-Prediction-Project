@@ -63,9 +63,6 @@ The main part of the project involves building and training a linear regression 
 
 If you want to contribute to this project, feel free to fork the repository, make changes, and create a pull request. We welcome any contributions or improvements.
 
-## License
-
-This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
 
 ---
 
